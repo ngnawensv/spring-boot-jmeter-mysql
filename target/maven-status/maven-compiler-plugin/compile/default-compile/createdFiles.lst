@@ -1,0 +1,6 @@
+com\belrose\jmeter\model\Product.class
+com\belrose\jmeter\service\ProductService.class
+com\belrose\jmeter\controller\ProductController.class
+com\belrose\jmeter\service\impl\ProductServiceImpl.class
+com\belrose\jmeter\repository\ProductRepository.class
+com\belrose\jmeter\SpringBootJmeterApplication.class
